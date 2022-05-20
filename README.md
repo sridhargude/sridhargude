@@ -1,8 +1,39 @@
 - 👋 Hi, I’m @sridhargude
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+```
+sridhargude@github
+-----------------
+
+OS:         Mac
+Shell:      ZSH
+Pronouns:   He/Him
+Location:   San Jose,CA
+Languages:  Go, Python, Javascript, Solidity
+Learning:   React
+Position:   Tech Lead, Site Reliability Engineer - Infra @TikTok
+```
+
+# 👨🏻‍💻Tech Stack
+<div align="center">
+    <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
+    <img src="https://skillicons.dev/icons?i=py,go,js,solidity,aws,jenkins,docker,redis">
+</div>
+
+
+* Config Managemet - Ansible,Salt
+* TCP/IP
+* KV Stores
+* Distributed Systems
+  
+
+# 📫 Social media links 
+
+<div align=center>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhargude)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sridhar_gude)
+
+</div>
 
 <!---
 sridhargude/sridhargude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
