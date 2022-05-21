@@ -16,20 +16,30 @@ Position:   Tech Lead, Site Reliability Engineer - Infra @TikTok
 <div align=center>
 
 # 👨🏻‍💻Tech Stack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px">
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,go,js,solidity,aws,jenkins,docker,redis">
-</div>
 </div>
 
-* Config Managemet - Ansible,Salt
-* TCP/IP
-* KV Stores
-* Distributed Systems
+## Programming Languages
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,go,js,bash,solidity">
+</div>
+
+
+## Tools 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,kubernetes,aws,jenkins,docker,grafana">
+</div>
+
+## Database 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=redis,mysql">
+</div>
+    
+    
   
 
 <div align=center>
 
-# 📫 Find Me 
+# 📫 Find Me On
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhargude)
